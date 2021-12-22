@@ -1,4 +1,4 @@
-# ez
+# Ktateeb Education Website
 
 ## Build Setup
 
